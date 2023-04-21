@@ -1,0 +1,31 @@
+.column {
+    background-color: rgb(3, 1, 105);
+    position:fixed;
+    top: 0px;
+    left: 0px;
+    width: 300px;
+    height: 100%;
+}
+h1 {
+    padding: 10px 0px 0px 20px;
+    color: white;
+    
+}
+.top {
+    display:block;
+    align-items:center;
+    padding: 0px;
+
+}
+li > a {
+    text-decoration: none;
+    position:absolute;
+    color: black;
+    top: auto;
+    font-size: 18px;
+    padding: 10px 0px 0px 30px;
+}
+fieldset {
+    padding: 0px 0px 30px 0px;
+    background-color: rgb(248, 248, 248);
+}
