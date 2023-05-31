@@ -1,0 +1,37 @@
+table {
+    width: 500px;
+    height: 400px;
+    border-collapse: collapse;
+}
+
+tr, th, td {
+    border: 1px solid black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+thead, th {
+    background-color: rgb(91, 91, 91);
+}
+
+.th {
+    background-color: rgb(91, 91, 91);
+    color: white;
+    font-weight: 600;
+}
+
+th {
+    color: white;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tr {
+    background-color: white;
+    color: black;
+}
+
+.right {
+    text-align: left;
+    padding-left: 10px;
+}
